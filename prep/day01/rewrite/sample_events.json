@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "evt-1001",
+      "actor": "unknown_handle_92",
+      "location": "Reston, VA",
+      "severity": "HIGH",
+      "summary": "Repeated mentions of a watchlisted alias across two open sources"
+    },
+    {
+      "id": "evt-1002",
+      "actor": "analyst_bot",
+      "location": "Boston, MA",
+      "severity": "medium",
+      "summary": "Routine geo ping; no identity match"
+    },
+    {
+      "id": "evt-1003",
+      "actor": "field_source_a",
+      "location": "Reston, VA",
+      "severity": 3,
+      "desc": "Possible duplicate person record — same DOB, divergent spelling"
+    },
+    {
+      "id": "evt-1004",
+      "actor": "osint_stream",
+      "location": "",
+      "severity": "low",
+      "summary": "Noise event; empty location"
+    },
+    {
+      "id": "evt-1005",
+      "actor": "partner_feed",
+      "severity": "High",
+      "summary": "Cross-border travel pattern correlated with prior case id C-441"
+    },
+    null,
+    {
+      "actor": "broken_row",
+      "severity": "high",
+      "summary": "missing id — should be skipped"
+    }
+  ]
+}
