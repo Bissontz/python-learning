@@ -10,7 +10,7 @@ Fill every section in your own words. Then say the whole pitch out loud once (ai
 
 <!-- 2–3 sentences. Cover OSINT / identity / risk intelligence — not “an AI company.” -->
 
-
+Babel Street builds mission-grade identity resolution and risk intelligence systems. Their insights platform pulls OSINT and other public data so analysts and investigators can search people/entities, connect relationships, and spot threats. Their Match platform assists in matching multilingual names with increased accuracy and advanced customization.
 
 ---
 
@@ -18,7 +18,7 @@ Fill every section in your own words. Then say the whole pitch out loud once (ai
 
 <!-- Government, defense, LE, commercial risk teams, investigators/analysts — be specific enough to sound real. -->
 
-
+Customers are mostly government, defense, and financial teams
 
 ---
 
@@ -26,7 +26,7 @@ Fill every section in your own words. Then say the whole pitch out loud once (ai
 
 <!-- Mission outcome: resolve identity, surface risk, act on multilingual open-source signal with provenance. -->
 
-
+Babel Street helps their customers resolve who is who and what is important and act with higher confidence while avoiding missing critical signals
 
 ---
 
@@ -34,7 +34,7 @@ Fill every section in your own words. Then say the whole pitch out loud once (ai
 
 <!-- Paste a single paragraph you will actually say. -->
 
-
+Babel Street builds mission-grade identity resolution and risk intelligence systems. Their insights platform pulls OSINT and other public data so analysts and investigators can search people/entities, connect relationships, and spot threats. Their Match platform assists in matching multilingual names with increased accuracy and advanced customization. Their customers are mostly government, defense, and financial teams. In short, Babel Street helps their customers resolve who is who and what is important and act with higher confidence while avoiding missing critical signals.
 
 ---
 
